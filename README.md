@@ -7,3 +7,4 @@
 ##### Projects
 
 [1. Foundations (Nothing relevant)](foundation/)
+[2. Color Palette Gen](color-palette/README.md)
