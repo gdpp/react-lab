@@ -27,8 +27,8 @@ export const Conditional = ({title, isActive}: Props) => {
                 <h5 className="text-2xl text-indigo-700">{title}</h5>
                 {
                     isActive 
-                        ? <p className="bg-emerald-300 text-emerald-800 text-center rounded-2xl w-[80px]">Active</p> 
-                        : <p className="bg-red-300 text-red-800 text-center rounded-2xl w-[80px]">Inactive</p>
+                        ? <p className="bg-emerald-300 text-emerald-700 text-center rounded-2xl w-[80px]">Active</p> 
+                        : <p className="bg-red-300 text-red-700 text-center rounded-2xl w-[80px]">Inactive</p>
                 }
                 <p>
                     {NOTIFICATION_STATES['info']}
@@ -39,6 +39,15 @@ export const Conditional = ({title, isActive}: Props) => {
                 <p>
                     {NOTIFICATION_STATES['error']}
                 </p>
+                <ul>
+                    {
+                        engines.map((engine) => (
+                            <li key={engine.id} className="font-bold text-md">
+                                {engine.name}
+                            </li>
+                        ))
+                    }
+                </ul>
             </article>
         )
     }

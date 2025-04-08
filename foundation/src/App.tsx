@@ -2,6 +2,7 @@ import { Greeting, Separator } from "./components/MultiComponent"
 import {Article} from "./components/Article"
 import { Container } from "./components/Container"
 import { Conditional } from "./components/Conditional"
+import { CoinsCounter } from "./components/Coins";
 
 export const App = () => {
   return (
@@ -15,6 +16,7 @@ export const App = () => {
         <h2 className="text-2xl py-2">Components</h2>
         <Article title="Article Title" />
         <Conditional title="Conditional Rendering" isActive/>
+        <CoinsCounter />
     </Container>
   )
 }
