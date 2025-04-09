@@ -15,7 +15,7 @@ Create a **React app** where users can generate custom color palettes (in hex fo
 - [ ] Create a ColorItem component for each individual color.
 - [ ] Use JSX to structure the components.
 - [ ] Pass props from the parent component (App) to its children (ColorList, ColorItem, etc.).
-- [ ] Implement component composition (e.g., ColorList will contain multiple ColorItem components).
+- [ ] Implement component composition (e.g. ColorList will contain multiple ColorItem components).
 
 ### Rendering:
 

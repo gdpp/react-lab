@@ -4,7 +4,7 @@ type Props = {
 
 export const BaseLayout = ({children}: Props) => {
   return (
-    <main className="bg-slate-200 py-4 px-8 min-h-screen w-full">
+    <main className="bg-slate-200 p-4 lg:py-6 lg:px-12">
         {children}
     </main>
   )
