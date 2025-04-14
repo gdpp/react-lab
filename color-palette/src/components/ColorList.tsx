@@ -1,3 +1,5 @@
+import { ColorItem } from "./ColorItem";
+
 type Color = {
     value: string;
     locked: boolean;
@@ -9,12 +11,10 @@ type Props = {
 
 export const ColorList = ({palette}: Props) => {
   return (
-    <div>
+    <div className="w-full flex flex-col md:flex-row">
         {
           palette.map((color, idx) => (
-            <div className="h-24 lg:h-full w-full lg:w-auto" style={{ backgroundColor: color.value }} key={idx}>
-                {color.value}
-            </div>
+            <ColorItem key={idx} color={color} />
           ))
         }
     </div>
