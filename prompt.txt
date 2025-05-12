@@ -1,0 +1,40 @@
+<!-- 
+Estoy aprendiendo react, actualmente he aprendido los siguientes temas y terminos en react y no quiero olvidarlos:
+
+1. Components (Functional Components)
+    a. JSX
+    b. Component props
+    c. Prop vs State
+    d. Conditional Rendering
+    e. Composition
+    f. Props only from parent to child component
+2. Rendering
+    a. Lists and Keys
+    b. Render Props (me puedes dar una breve explicacion de este porque no entendi muy bien)
+    c. Refs
+    d. Events
+3. Hooks
+    a. useState de momento basico (tal vez con la dificultad un poco subidita de tono)
+    b. useEffect de momento basico (tal vez con la dificultad un poco subidita de tono)
+
+puedes crearme un ejercicio para practicar (no quiero que sea un counter, ni todo app, ni calculadora, algo mas creativo y unico) que se enfoque en los terminos y temas mas importantes, y tambien que utilice estos temas de Javascript para reforzar empezando desde abajo: Variables, control flow (loops, conditionals), functions, and scope y una api web yo creo localStorage y clipboard API. Hazme un checklist (sin las respuestas solo los requerimientos) y aparte crea el ejecicio con el siguiente formato:
+
+- Titulo
+- Descripcion
+- Checklist (hacerlo detallado, pero sin respuestas)
+- Que aprendi
+- Tags
+-->
+
+🎓 What I Learned
+How to manage state and props effectively in a small React app.
+Conditional rendering and rendering lists dynamically.
+Using useEffect to sync with localStorage.
+Using useRef for better user experience (auto-focusing).
+Practical usage of browser APIs: localStorage and Clipboard API.
+How to apply core JavaScript concepts like scope, conditionals, and loops in a real mini project.
+Component composition and breaking down UIs into manageable pieces.
+
+🏷️ Tags:
+React useState useEffect JSX Props Components localStorage Clipboard API Events JavaScript Refs Conditional Rendering Lists and Keys
+

@@ -6,8 +6,8 @@
 
 #### Projects
 
-[1. Foundations (Nothing relevant)](foundation/)
-[2. Color Palette Gen](color-palette/README.md)
+-    [1. Foundations (Nothing relevant)](foundation/)
+-   **CAPSTONE PROJECT 1** [2. WallWrite](wall-write/README.md)
 
 ## References
 
