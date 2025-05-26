@@ -8,21 +8,15 @@ React Odyssey is a hands-on, intensive journey through the modern React ecosyste
 
 This repository is not just a collection of practice code — it's a public log of my growth as a frontend developer with React.
 
-## Table of Content:
-
-- [What's Included?](##what's-included?)
-- [Main Content](##main-content)
-- [Tools & Libraries](##tools-&-libraries)
-- [Purpose](##purpose)
-- [Live Demos](##live-demos)
-- [Status](##status)
-
-
 ## What's Included?
--   200+ hours of intensive React.js training.
+-   400+ hours of intensive React.js training.
 -   Modern UI technologies and architecture patterns.
 -   Mini apps and exercises with live demos.
 -   From UI thinking to systems thinking.
+
+## Table of Content:
+
+- [React Foundations](react-foundation/README.md)
 
 ## Main Content.
 
