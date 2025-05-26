@@ -10,12 +10,12 @@ This repository is not just a collection of practice code — it's a public log 
 
 ## Table of Content:
 
-[What's Included?](##What'sIncluded?)
-[Main Content](##MainContent)
-[Tools & Libraries](##Tools&Libraries)
-[Purpose](##Purpose)
-[Live Demos](##LiveDemos)
-[Status](##Status)
+- [What's Included?](##what's-included?)
+- [Main Content](##main-content)
+- [Tools & Libraries](##tools-&-libraries)
+- [Purpose](##purpose)
+- [Live Demos](##live-demos)
+- [Status](##status)
 
 
 ## What's Included?
