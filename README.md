@@ -16,72 +16,14 @@ This repository is not just a collection of practice code — it's a public log 
 
 ## Table of Content:
 
-- [React Foundations](react-foundation/README.md)
+- [React Foundations (no live demos)](react-foundation/README.md)
+- [React Hooks](react-hooks/README.md)
 
 ## Main Content.
 
-#### React with JavaScript.
+This repository contains a comprehensive collection of practical exercises and real-world projects focused on React, using both JavaScript and TypeScript. 
 
-* Dozens of practical exercises.
-* Hooks.
-* components.
-* state.
-* effects.
-* events.
-* and more.
-
-#### React with TypeScript.
-
-* Best practices for TS.
-* components.
-* props.
-* and custom hooks.
-
-#### Forms.
-
-* Validation.
-* input control.
-* and modern UX/UI forms.
-
-## Tools & Libraries.
-
-#### UI Frameworks & Component Libraries.
-
-* Tailwind CSS.
-* DaisyUI.
-* ShadcnUI.
-* Radix UI.
-
-#### State Management.
-
-* Simple & advanced custom hooks.
-* Zustand.
-* Redux Toolkit.
-
-#### Animations.
-
-* Framer Motion.
-
-#### Routing & Data Fetching.
-
-* Tanstack Router.
-* Tanstack Query.
-* Tanstack Start.
-
-#### Testing.
-
-* React Testing.
-* and best practices.
-
-#### Design Patterns & Design Systems
-
-* Architectural thinking applied to real projects
-
-#### Next.js
-
-* Projects using the App Router.
-* SSR.
-* and more.
+It covers core concepts such as components, hooks, state management, effects, events, and modern form handling with validation and UX/UI best practices. It emphasizes TypeScript best practices, including typed props and custom hooks. You'll also find essential tools and libraries like Tailwind CSS, DaisyUI, ShadcnUI, and Radix UI. For state management, it includes custom hooks, Zustand, and Redux Toolkit. Animations are handled with Framer Motion, and routing/data fetching is explored with TanStack Router, Query, and Start. The repository also includes testing strategies with React Testing Library, design patterns, design systems, and architectural thinking applied to real projects. Additionally, it features Next.js with App Router, server-side rendering (SSR), and more.
 
 ## Purpose
 
