@@ -17,7 +17,7 @@ This repository is not just a collection of practice code — it's a public log 
 ## Table of Content:
 
 - [React Foundations (no live demos)](react-foundation/README.md)
-- [React Hooks](react-hooks/README.md)
+- [React Hooks (no live demos)](react-hooks/README.md)
 
 ## Main Content.
 
