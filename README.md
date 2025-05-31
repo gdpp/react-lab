@@ -8,6 +8,12 @@ React Odyssey is a hands-on, intensive journey through the modern React ecosyste
 
 This repository is not just a collection of practice code — it's a public log of my growth as a frontend developer with React.
 
+## Live Demos
+
+Every project or exercise relevant includes a mini live demo to explore, test, and get inspired.
+
+[Coming soon: Production demo index page]
+
 ## What's Included?
 -   400+ hours of intensive React.js training.
 -   Modern UI technologies and architecture patterns.
@@ -16,8 +22,9 @@ This repository is not just a collection of practice code — it's a public log 
 
 ## Table of Content:
 
-- [React Foundations (no live demos)](react-foundation/README.md)
-- [React Hooks (no live demos)](react-hooks/README.md)
+- [React Foundations](react-foundation/README.md)
+- [React Hooks](react-hooks/README.md)
+- [Beginner React + Javascript projects](project-demos/README.md)
 
 ## Main Content.
 
@@ -33,12 +40,6 @@ It covers core concepts such as components, hooks, state management, effects, ev
 * Deeply explore the modern React ecosystem
 * Document every step with working examples and visual demos
 * Build a strong foundation for real-world, professional projects
-
-## Live Demos
-
-Every project or exercise relevant includes a mini live demo to explore, test, and get inspired.
-
-[Coming soon: Production demo index page]
 
 ## Status
 
