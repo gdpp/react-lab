@@ -15,7 +15,7 @@ Every project or exercise relevant includes a mini live demo to explore, test, a
 [Coming soon: Production demo index page]
 
 ## What's Included?
--   400+ hours of intensive React.js training.
+-   300+ hours of intensive React.js training.
 -   Modern UI technologies and architecture patterns.
 -   Mini apps and exercises with live demos.
 -   From UI thinking to systems thinking.
@@ -25,6 +25,8 @@ Every project or exercise relevant includes a mini live demo to explore, test, a
 - [React Foundations](react-foundation/README.md)
 - [React Hooks](react-hooks/README.md)
 - [Beginner React + Javascript projects](project-demos/README.md)
+- [React w/ Typscript](react-with-ts/)
+- [React Hook Form](react-hook-form/)
 
 ## Main Content.
 
