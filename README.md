@@ -27,6 +27,7 @@ Every project or exercise relevant includes a mini live demo to explore, test, a
 - [Beginner React + Javascript projects](project-demos/README.md)
 - [React w/ Typscript](react-with-ts/)
 - [React Hook Form](react-hook-form/)
+- [Checkpoint Projects 1](checkpoint-one/README.md)
 
 ## Main Content.
 
