@@ -15,13 +15,15 @@ Every project or exercise relevant includes a mini live demo to explore, test, a
 [Coming soon: Production demo index page]
 
 ## What's Included?
--   300+ hours of intensive React.js training.
--   Modern UI technologies and architecture patterns.
--   Mini apps and exercises with live demos.
--   From UI thinking to systems thinking.
+
+- 300+ hours of intensive React.js training.
+- Modern UI technologies and architecture patterns.
+- Mini apps and exercises with live demos.
+- From UI thinking to systems thinking.
 
 ## Table of Content:
 
+- [React First Steps](first-steps/README.md)
 - [React Foundations](react-foundation/README.md)
 - [React Hooks](react-hooks/README.md)
 - [Beginner React + Javascript projects](project-demos/README.md)
@@ -32,7 +34,7 @@ Every project or exercise relevant includes a mini live demo to explore, test, a
 
 ## Main Content.
 
-This repository contains a comprehensive collection of practical exercises and real-world projects focused on React, using both JavaScript and TypeScript. 
+This repository contains a comprehensive collection of practical exercises and real-world projects focused on React, using both JavaScript and TypeScript.
 
 It covers core concepts such as components, hooks, state management, effects, events, and modern form handling with validation and UX/UI best practices. It emphasizes TypeScript best practices, including typed props and custom hooks. You'll also find essential tools and libraries like Tailwind CSS, DaisyUI, ShadcnUI, and Radix UI. For state management, it includes custom hooks, Zustand, and Redux Toolkit. Animations are handled with Framer Motion, and routing/data fetching is explored with TanStack Router, Query, and Start. The repository also includes testing strategies with React Testing Library, design patterns, design systems, and architectural thinking applied to real projects. Additionally, it features Next.js with App Router, server-side rendering (SSR), and more.
 
@@ -40,10 +42,10 @@ It covers core concepts such as components, hooks, state management, effects, ev
 
 > Learn by doing. This journey is designed to
 
-* Strengthen my expertise as a UI/Frontend Engineer
-* Deeply explore the modern React ecosystem
-* Document every step with working examples and visual demos
-* Build a strong foundation for real-world, professional projects
+- Strengthen my expertise as a UI/Frontend Engineer
+- Deeply explore the modern React ecosystem
+- Document every step with working examples and visual demos
+- Build a strong foundation for real-world, professional projects
 
 ## Status
 
