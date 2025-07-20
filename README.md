@@ -30,6 +30,7 @@ Every project or exercise relevant includes a mini live demo to explore, test, a
 - [React w/ Typscript](react-with-ts/)
 - [React Hook Form](react-hook-form/)
 - [Checkpoint Projects 1](checkpoint-one/README.md)
+- [React Router Declarative](react-router-declarative/README.md)
 - [React Redux](react-redux/README.md)
 
 ## Main Content.
