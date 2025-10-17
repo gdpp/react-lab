@@ -7,12 +7,14 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# build and node_modules
 node_modules
 dist
 dist-ssr
 *.local
 
 # Editor directories and files
+.vscode
 .vscode/*
 !.vscode/extensions.json
 .idea
@@ -23,3 +25,6 @@ dist-ssr
 *.sln
 *.sw?
 eslint.config.js
+
+# env
+.env

@@ -1,14 +1,26 @@
-![react image](head-image.jpg)
-
 # 🚀 React Odyssey: The Complete Hands-on Journey
 
 > More than a projects repository — this is my React developer journey, in public.
+
+![react image](head-image.jpg)
 
 React Odyssey is a hands-on, intensive journey through the modern React ecosystem. Inside, you'll find real-world projects, practical exercises, and interactive mini live demos organized by topic, tools, and skill level.
 
 This repository is not just a collection of practice code — it's a public log of my growth as a frontend developer with React.
 
-## Live Demos
+## What is React?
+
+React is a JavaScript library for building user interfaces, mainly used to create dynamic and interactive web apps.
+
+## Key points about React:
+
+- Component-based architecture.
+- Uses a virtual DOM for efficient updates.
+- Supports unidirectional data flow.
+- Declarative syntax makes UI predictable.
+- Widely used with tools like Vite, Next.js, and TypeScript.
+
+## Live Previews
 
 Every project or exercise relevant includes a mini live demo to explore, test, and get inspired.
 
@@ -18,20 +30,25 @@ Every project or exercise relevant includes a mini live demo to explore, test, a
 
 - 300+ hours of intensive React.js training.
 - Modern UI technologies and architecture patterns.
-- Mini apps and exercises with live demos.
+- Mini apps and exercises.
 - From UI thinking to systems thinking.
+- Live previews.
 
 ## Table of Content:
 
+- [Review of Javacript and Typescript for React](repaso-js-ts/README.md)
 - [React First Steps](first-steps/README.md)
 - [React Foundations](react-foundation/README.md)
 - [React Hooks](react-hooks/README.md)
+- [Deep Hooks](deep-hooks/README.md)
 - [Beginner React + Javascript projects](project-demos/README.md)
 - [React w/ Typscript](react-with-ts/)
 - [React Hook Form](react-hook-form/)
 - [Checkpoint Projects 1](checkpoint-one/README.md)
 - [React Router Declarative](react-router-declarative/README.md)
 - [React Redux](react-redux/README.md)
+- [Zustand](zustand/README.md)
+- [Gifs App](gifs-app/README.md)
 
 ## Main Content.
 
