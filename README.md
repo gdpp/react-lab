@@ -49,6 +49,7 @@ Every project or exercise relevant includes a mini live demo to explore, test, a
 - [React Redux](react-redux/README.md)
 - [Zustand](zustand/README.md)
 - [Gifs App](gifs-app/README.md)
+-
 
 ## Main Content.
 

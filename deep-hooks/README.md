@@ -25,6 +25,12 @@ useEffect – Handling side effects and data synchronization
 - Effects over states
 - LocalStorage y SessionStorage
 - Reducers conditions
+- Hook useContext
+- Nueva API - use
+- Persistencia de sesiones de usuario
+- Rutas de la aplicación
+- Rutas privadas y públicas
+- Diseño condicional
 
 Custom Hooks, such as:
 useCounter – Managing counters with reusable logic
