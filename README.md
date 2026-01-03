@@ -8,6 +8,31 @@ React Odyssey is a hands-on, intensive journey through the modern React ecosyste
 
 This repository is not just a collection of practice code — it's a public log of my growth as a frontend developer with React.
 
+## Roadmap
+
+1. HTML + CSS + Javascript
+2. Basic concepts
+   - Create a project
+   - Components
+   - Props
+   - State
+   - Events
+   - Hooks
+3. Intermediate concepts
+   - useReducer / useContext
+   - Fetch API
+   - React Router
+   - Forms w/Zod
+   - Styles
+   - Optimizations (useMemo & useCallback)
+4. State Management
+   - Redux Toolkit (store, actions, reducers)
+   - Zustand
+5. Testing
+   - Unit testing (Vitest, Jest)
+   - Testing Library (RTL)
+   - End to End Testing (Cypress)
+
 ## What is React?
 
 React is a JavaScript library for building user interfaces, mainly used to create dynamic and interactive web apps.
