@@ -45,15 +45,9 @@ React is a JavaScript library for building user interfaces, mainly used to creat
 - Declarative syntax makes UI predictable.
 - Widely used with tools like Vite, Next.js, and TypeScript.
 
-## Live Previews
-
-Every project or exercise relevant includes a mini live demo to explore, test, and get inspired.
-
-[Coming soon: Production demo index page]
-
 ## What's Included?
 
-- 300+ hours of intensive React.js training.
+- 500+ hours of intensive React.js training.
 - Modern UI technologies and architecture patterns.
 - Mini apps and exercises.
 - From UI thinking to systems thinking.
@@ -74,7 +68,7 @@ Every project or exercise relevant includes a mini live demo to explore, test, a
 - [React Redux](react-redux/README.md)
 - [Zustand](zustand/README.md)
 - [Gifs App](gifs-app/README.md)
--
+- [Notes Front](notes-front/README.md)
 
 ## Main Content.
 
