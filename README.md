@@ -32,6 +32,37 @@ This repository is not just a collection of practice code — it's a public log 
    - Unit testing (Vitest, Jest)
    - Testing Library (RTL)
    - End to End Testing (Cypress)
+6. **Next.js**
+   - Foundation
+   - File based routing: App directory
+     - Page
+     - Layout
+     - Loading
+     - Error
+   - Rendering Strategies
+     - Client Side Rendering (CSR)
+     - Server Side Rendering (SSR)
+     - Static Site Generation (SSG)
+     - Incremental Site Regeneration (ISR)
+   - Route API
+     - REST API
+   - Next.js configurations
+     - next.config.js
+     - Linterns
+     - tsconfig.json
+   - Middlewares/Proxies
+   - Cookies
+   - Headers
+   - Data Fetching Patterns (SWR)
+     - Parallel vs Sequential
+     - Preloading data
+   - Caching data
+     - Memoization in fetch
+     - Revalidation cache data
+     - React cache
+   - Internationalization
+   - Server Actions
+7. Deployment
 
 ## What is React?
 
@@ -68,7 +99,7 @@ React is a JavaScript library for building user interfaces, mainly used to creat
 - [React Redux](react-redux/README.md)
 - [Zustand](zustand/README.md)
 - [Gifs App](gifs-app/README.md)
-- [Notes Front](notes-front/README.md)
+- [Netflix Clone](netflix-clone/README.md)
 
 ## Main Content.
 
