@@ -101,6 +101,7 @@ React is a JavaScript library for building user interfaces, mainly used to creat
 - [Gifs App](gifs-app/README.md)
 - [Next.js foundation](next-foundation/README.md)
 - [Dev Dashboard](dev-dashboard/README.md)
+- [Frankenstein](frankenstein/README.md)
 
 ## Main Content.
 
