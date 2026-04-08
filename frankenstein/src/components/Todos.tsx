@@ -1,14 +1,45 @@
 import { useState } from "react";
 
+type Todo = {
+  title: string;
+  completed: boolean;
+};
+
 function Todos() {
-  const [todos, setTodos] = useState<string[]>([]);
+  const [todos, setTodos] = useState<Todo[]>([]);
   const [inputValue, setInputValue] = useState("");
 
   const addTodo = () => {
     if (!inputValue) return;
 
-    setTodos([...todos, inputValue]);
+    const newTodo = {
+      title: inputValue,
+      completed: false,
+    };
+
+    setTodos([...todos, newTodo]);
     setInputValue("");
+  };
+
+  const completeTodo = (id: number) => {
+    const newTodos: Todo[] = todos.map((item, idx) => {
+      if (idx === id) {
+        return {
+          ...item,
+          completed: !item.completed,
+        };
+      }
+
+      return item;
+    });
+
+    setTodos(newTodos);
+  };
+
+  const removeTodo = (id: number) => {
+    const newTodos = todos.filter((_, idx) => idx !== id);
+
+    setTodos(newTodos);
   };
 
   return (
@@ -22,9 +53,24 @@ function Todos() {
       <button onClick={addTodo}>Add</button>
       <div>
         <ul>
-          {todos.map((todo, idx) => (
-            <li key={idx}>{todo}</li>
-          ))}
+          {todos.length > 0
+            ? todos.map((todo, idx) => (
+                <li key={idx}>
+                  <div>
+                    <span
+                      style={{
+                        color: todo.completed ? "green" : "black",
+                        fontWeight: todo.completed ? "bold" : "normal",
+                      }}
+                    >
+                      {todo.title}
+                    </span>
+                    <button onClick={() => completeTodo(idx)}>Complete</button>
+                    <button onClick={() => removeTodo(idx)}>X</button>
+                  </div>
+                </li>
+              ))
+            : "Agrega una tarea para comenzar"}
         </ul>
       </div>
     </div>
