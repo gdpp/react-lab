@@ -3,6 +3,7 @@ import { useState } from "react";
 // Components
 import Todos from "./components/Todos";
 import Tasks from "./components/Tasks/Tasks";
+import Users from "./components/Users/Users";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -27,6 +28,8 @@ function App() {
       <Todos />
       <hr />
       <Tasks />
+      <hr />
+      <Users />
     </section>
   );
 }
