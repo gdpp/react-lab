@@ -11,7 +11,14 @@ type Task = {
 };
 
 function Tasks() {
-  const [tasks, setTasks] = useState<Task[]>([]);
+  const [tasks, setTasks] = useState<Task[]>(() => {
+    const savedTasks = localStorage.getItem("tasks");
+    return savedTasks ? JSON.parse(savedTasks) : [];
+  });
+
+  // const totalTasks = tasks.length;
+  // const pendingTasks = tasks.filter((task) => !task.completed).length;
+  // const completedTasks = tasks.filter((task) => task.completed).length;
 
   const addTask = (value: string) => {
     if (!value) return;
@@ -46,7 +53,7 @@ function Tasks() {
   };
 
   useEffect(() => {
-    return () => {};
+    localStorage.setItem("tasks", JSON.stringify(tasks));
   }, [tasks]);
 
   return (
